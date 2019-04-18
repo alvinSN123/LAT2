@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">LAT2_AKB2_10116074_ERIYANTI</string>
+    <string name="or">OR</string>
+    <string name="register">doesn\'t have account ? <b>Register</b></string>
+    <string name="User">Username</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone Number</string>
+    <string name="Pass">Password</string>
+    <string name="Rpass">Retype Password</string>
+    <string name="Home">Home Address</string>
+    <string name="Def">Default Location</string>
+    <string name="Enter"> enter verification code here....</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="BT">Bloody Type</string>
+    <string name="Res">Reshus</string>
+    <string name="perso">Personal</string>
+    <string name="Orga">Organization</string>
+    <string name="job">Job</string>
+    <string name="Aggre">Agree with Terms and Condition</string>
+    <string name="almost">Almost There</string>
+    <string name="Thank">Thank you for registering </string>
+    <string name="Vya">Verify Your Account</string>
+    <string name="wehave">We have send verification code your email</string>
+    <string name="resend">Doesn\'t got the code?<b>Resend</b></string>
+    <string name="regis">Register</string>
+    <string name="TY">Thank you for register with.us One more
+                        \n step, you need to chech your email
+                        \n to active your account </string>
+    <string name="verify">VERIFY</string>
+    <string name="ahmad"><b>Eriyanti</b></string>
+    <string name="type">Blood type : B</string>
+    <string name="tujuh"><b>75</b></string>
+    <string name="bgive">BLOOD GIVE</string>
+    <string name="seratus"><b>100</b></string>
+    <string name="br">BLOOD RECEIVED</string>
+    <string name="tiga"><b>330</b></string>
+    <string name="tk">THANKS</string>
+    <string name="search"><b>Search Donor</b></string>
+    <string name="Searchdonor">Search donor near you</string>
+    <string name="need"><b>Blood Needed</b></string>
+    <string name="needd">4 Users need blood</string>
+    <string name="message"><b>Message</b></string>
+    <string name="newm">5 New Message</string>
+    <string name="history"><b>Donor History</b></string>
+    <string name="dhistory">5 Gives, 2 Received</string>
+
+
+</resources>
